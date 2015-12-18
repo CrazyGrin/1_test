@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	     <title>一个简易的计算器</title>
+	     <meta http-equiv="Content-type" content="text/html;charset=utf-8">
+    </head>
+
+<body>
+    <center>
+
+        <h1>计算器</h1><br>
+        <form method="GET" action="calculator.php">
+            <input type="text" onkeyup="checkInput(this);" value="0" maxlength="60" name="firstNum" />
+
+            <select name="operator">
+
+                <option value="+" >+</option>
+
+                <option value="-" >-</option>
+
+                <option value="*" >x</option>
+
+                <option value="/" >/</option>
+
+            </select>
+
+            <input type="text" onkeyup="checkInput(this);" value="0" maxlength="60" name="secondNum" />
+            <input type="submit" value="计算" />
+        </form>
+        <br><h3>请输入数字哦!其实你想输入其他的也没法。</h3><br><hr/><br>
+
+
+        <form method="GET" action="form.class1.php">
+            <h1>计算末速度</h1><br>
+             &nbsp;初速度：<input type="text" onkeyup="checkInput(this);" value="0" name="velocity" /><br>
+             &nbsp;加速度：<input type="text" onkeyup="checkInput(this);" value="0" name="acceleration" /><br>
+            运动时间：<input type="text" onkeyup="checkInput(this);" value="0" name="time" /><br>
+            <input type="submit" value="计算" />
+        </form><br><hr/><br>
+
+
+        <form method="GET" action="form.class2.php">
+            <h1>约瑟夫问题</h1>
+            <h4>一个游戏规则为：已知n个人（以编号1，2，3...n分别表示）围坐在一张圆桌周围。从编号为1的人开始报数，数到m的那个人出列；他的下一个人又从1开始报数，数到m的那个人又出列；依此规律重复下去，直到圆桌周围只剩下一个人为胜利者。请问已知人数和m的情况下，坐在几号位置必定可以获得胜利？</h4>
+            &nbsp;人数<input type="text" onkeyup="checkInput(this);" value="0" name="n" /><br>
+            m的值<input type="text" onkeyup="checkInput(this);" value="0" name="m" /><br>
+            <input type="submit" value="计算" />
+        </form>
+    </center>
+</body>
+    <script type="text/javascript">
+    //检查输入（借鉴自百度）
+    function checkInput(t) {
+    t.value = t.value.replace(/[^\-\d\.]/g,"").replace(/(^|\D)\.+/g,"$1").replace(/^(\-?\d*\.?\d*).*$/,"$1").replace(/^(\-?(\d\.?){1,60}).*$/,"$1");
+    }
+
+    </script>
+</html>
