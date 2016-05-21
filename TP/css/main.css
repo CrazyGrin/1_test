@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body{ font-size:13px; margin:10px; padding:0; color:#666; }
+#messageBox{ width:460px; height:220px; background:#fff;}
+#sendBox{ width:460px; height:80px; background:#fff; margin-top:15px; border:1px #6CBFF5 solid;}
+a:link,a:visited{
+	color:#333;
+	text-decoration:none;
+}
+a:hover{
+	color:red;
+}
+.pagelist{ text-align:left; background:#f1f1f1; padding:7px 0;}
+.pagelist a{ margin:0 5px; border:#6185a2 solid 1px; display:inline-block; padding:2px 6px 1px; line-height:16px; background:#fff; color:#6185a2;}
+.pagelist span{ margin:0 5px; border:#6185a2 solid 1px; display:inline-block; padding:2px 6px 1px; line-height:16px; color:#6185a2; color:#fff; background:#6185a2;}

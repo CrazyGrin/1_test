@@ -1,0 +1,408 @@
+[ 2016-05-19T11:45:10+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T11:45:39+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T11:45:40+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T11:45:50+08:00 ] ::1 /TP/index.php/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: 无法加载模块:Regist
+
+[ 2016-05-19T11:45:53+08:00 ] ::1 /TP/index.php/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Regist
+
+[ 2016-05-19T11:52:47+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T11:54:35+08:00 ] ::1 /TP/index.php/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Regist
+
+[ 2016-05-19T14:12:49+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:12:49+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:12:49+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:12:49+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:12:55+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:12:55+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:12:55+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:12:55+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:12:55+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:12:55+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:12:55+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:12:55+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:12:58+08:00 ] ::1 /TP/index.php/qingqiu.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Qingqiu
+
+[ 2016-05-19T14:13:01+08:00 ] ::1 /TP/index.php/delfriend.php?f_nickname=111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Delfriend
+
+[ 2016-05-19T14:13:05+08:00 ] ::1 /TP/index.php/exit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Exit
+
+[ 2016-05-19T14:13:23+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:13:23+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:13:23+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:13:23+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:13:32+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:13:32+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:13:32+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:13:32+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:13:33+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:13:33+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:13:33+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:13:33+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:15:10+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:15:10+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:15:10+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:15:10+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:15:11+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:15:11+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:15:11+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001876s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:15:11+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:15:12+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:15:12+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:15:12+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:15:12+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:15:27+08:00 ] ::1 /TP/index.php/message?geter=113
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002422s ]
+ERR: 无法加载模块:Message
+
+[ 2016-05-19T14:15:30+08:00 ] ::1 /TP/index.php/message?geter=111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001627s ]
+ERR: 无法加载模块:Message
+
+[ 2016-05-19T14:15:41+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T14:16:53+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T14:16:53+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T14:49:13+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001905s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T14:49:14+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002099s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T14:49:22+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T14:49:22+08:00 ] ::1 /TP/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-19T14:49:26+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T14:49:26+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:49:26+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T14:49:26+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T14:49:36+08:00 ] ::1 /TP/index.php/message?geter=113
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+ERR: 无法加载模块:Message
+
+[ 2016-05-19T14:49:48+08:00 ] ::1 /TP/index.php/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Regist
+
+[ 2016-05-19T16:04:24+08:00 ] ::1 /TP/index.php/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-19T16:04:24+08:00 ] ::1 /TP/index.php/bootstrap/css/buttons.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2016-05-19T16:04:24+08:00 ] ::1 /TP/index.php/js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T16:04:24+08:00 ] ::1 /TP/index.php/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001409s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-19T22:13:46+08:00 ] ::1 /TP/index.php/addfriend/add?f_nickname=111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 无法加载模块:Addfriend
+
+[ 2016-05-19T23:08:34+08:00 ] ::1 /TP/index.php/addfriend/add?f_nickname=111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002892s ]
+ERR: 无法加载模块:Addfriend
+
+[ 2016-05-19T23:40:50+08:00 ] ::1 /TP/index.php/addfriend/add?f_nickname=113
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Addfriend
+

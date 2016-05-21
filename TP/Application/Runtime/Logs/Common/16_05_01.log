@@ -1,0 +1,18 @@
+[ 2016-05-01T21:50:23+08:00 ] ::1 /TP/index.php/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+ERR: 无法加载模块:Regist
+
+[ 2016-05-01T21:59:12+08:00 ] ::1 /TP/index.php/regist.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001923s ]
+ERR: 无法加载模块:Regist
+
+[ 2016-05-01T22:18:07+08:00 ] ::1 /tp/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Index
+
